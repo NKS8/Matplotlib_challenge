@@ -1,5 +1,5 @@
-## Matplotlib_challenge
-#observataion ans Insights
+###Matplotlib_challenge
+##observataion ans Insights
 1. There are 10 types of drugs studied. 
         a.Two of them such as Capomulin and Ceftamin are used the most number of mice during study. 
         b.Two of them such as Stelasyn and Zoniferol are used the least number of mice during study.
