@@ -8,5 +8,6 @@ Observataion and Insights
         a. Infubinol and Ceftamin are at the end of the timepoint had the higher tumor volumes .
            compare to  Capomulin and Ramicane.
 3. Weight of the mouse and Tumor volume has positive strong corelations since rvalue >= 0.7. 
-   Also, from scatter plot linear regression line fitting shows taht slope of the equation is postive. 
- 
+   Also, from scatter plot linear regression line fitting shows that slope is positive as weight 
+   increases tumor volume increases as well. 
+   
